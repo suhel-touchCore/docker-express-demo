@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "first_name": "Conny",
+    "last_name": "Berecloth",
+    "email": "cberecloth0@dot.gov",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Peterus",
+    "last_name": "Stockwell",
+    "email": "pstockwell1@wsj.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Theo",
+    "last_name": "Carne",
+    "email": "tcarne2@seesaa.net",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Kane",
+    "last_name": "Marmyon",
+    "email": "kmarmyon3@ibm.com",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Elane",
+    "last_name": "Sabbin",
+    "email": "esabbin4@uol.com.br",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Cordy",
+    "last_name": "Skivington",
+    "email": "cskivington5@wisc.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Marylee",
+    "last_name": "Dagger",
+    "email": "mdagger6@businessweek.com",
+    "gender": "Polygender"
+  },
+  {
+    "id": 8,
+    "first_name": "Ruby",
+    "last_name": "Mearing",
+    "email": "rmearing7@mail.ru",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Normie",
+    "last_name": "Guitel",
+    "email": "nguitel8@issuu.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Bethanne",
+    "last_name": "Rubke",
+    "email": "brubke9@google.com.hk",
+    "gender": "Female"
+  },
+  {
+    "id": 11,
+    "first_name": "Rosella",
+    "last_name": "Mackin",
+    "email": "rmackina@slate.com",
+    "gender": "Female"
+  },
+  {
+    "id": 12,
+    "first_name": "Arvie",
+    "last_name": "Muzzi",
+    "email": "amuzzib@facebook.com",
+    "gender": "Male"
+  },
+  {
+    "id": 13,
+    "first_name": "Ginevra",
+    "last_name": "Reide",
+    "email": "greidec@utexas.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 14,
+    "first_name": "Rolfe",
+    "last_name": "Potteridge",
+    "email": "rpotteridged@flickr.com",
+    "gender": "Male"
+  },
+  {
+    "id": 15,
+    "first_name": "Tybalt",
+    "last_name": "Phifer",
+    "email": "tphifere@bizjournals.com",
+    "gender": "Male"
+  },
+  {
+    "id": 16,
+    "first_name": "Roley",
+    "last_name": "Kain",
+    "email": "rkainf@ca.gov",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 17,
+    "first_name": "Robers",
+    "last_name": "Farrey",
+    "email": "rfarreyg@walmart.com",
+    "gender": "Male"
+  },
+  {
+    "id": 18,
+    "first_name": "Rhianna",
+    "last_name": "Bearham",
+    "email": "rbearhamh@bing.com",
+    "gender": "Female"
+  },
+  {
+    "id": 19,
+    "first_name": "Laurie",
+    "last_name": "Scandrite",
+    "email": "lscandritei@patch.com",
+    "gender": "Female"
+  },
+  {
+    "id": 20,
+    "first_name": "Mohammed",
+    "last_name": "Farthin",
+    "email": "mfarthinj@auda.org.au",
+    "gender": "Male"
+  }
+]
